@@ -1,4 +1,4 @@
-# Intellect-Group - Site Web
+﻿# Intellect-Group - Site Web
 
 ## Description
 Site web pour Intellect-Group, structure de placement de professeurs à domicile en Côte d'Ivoire.
@@ -9,7 +9,7 @@ Site web pour Intellect-Group, structure de placement de professeurs à domicile
 
 ### Page d'accueil
 - Présentation d'Intellect-Group
-- Informations de contact : +225 05 02 14 4613
+- Informations de contact : +225 05 02 14 46 23
 - Localisation : Marcory, Côte d'Ivoire
 - Couverture de toutes les séries : A, D, C
 
@@ -138,7 +138,7 @@ intellect-group/
 
 ## Contact
 **Intellect-Group**
-- Téléphone : +225 05 02 14 4613
+- Téléphone : +225 05 02 14 46 23
 - Localisation : Marcory, Côte d'Ivoire
 - Devise : L'excellence à tout prix
 
