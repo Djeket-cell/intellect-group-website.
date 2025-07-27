@@ -1,4 +1,4 @@
-import os
+﻿import os
 import sys
 # DON'T CHANGE THIS !!!
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
@@ -10,7 +10,7 @@ from flask_sqlalchemy import SQLAlchemy
 # Initialisation de la base de données
 db = SQLAlchemy()
 
-app = Flask(__name__, static_folder=os.path.join(os.path.dirname(__file__), 'static'))
+app = Flask(__name__, static_folder=os.path.join(os.path.dirname(__file__), 'static' , 'dist'))
 app.config['SECRET_KEY'] = 'asdf#FGSgvasgf$5$WGT'
 
 # Configuration de la base de données SQLite
