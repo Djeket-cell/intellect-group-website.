@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { Link } from 'react-router-dom';
 import { GraduationCap, Users, Award, Phone, MapPin } from 'lucide-react';
 import logo from '../assets/logo.jpg';
@@ -58,7 +58,7 @@ const HomePage = () => {
             <div className="flex items-center space-x-6">
               <div className="flex items-center space-x-2 text-gray-600">
                 <Phone className="h-5 w-5" />
-                <span>+225 05 02 14 4613</span>
+                <span>+225 05 02 14 46 23</span>
               </div>
               <div className="flex items-center space-x-2 text-gray-600">
                 <MapPin className="h-5 w-5" />
@@ -200,7 +200,7 @@ const HomePage = () => {
             <div className="text-center md:text-right">
               <p className="mb-2">
                 <Phone className="inline h-4 w-4 mr-2" />
-                +225 05 02 14 4613
+                +225 05 02 14 46 23
               </p>
               <p>
                 <MapPin className="inline h-4 w-4 mr-2" />
