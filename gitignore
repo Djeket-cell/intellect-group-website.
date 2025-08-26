@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+
+# Virtual environment
+virtualenv/
+virt/
+venc/
+venv/
+ENV/
+env/
+
+# Database
+*.sqlite3
+*.db
+
+# Node.js modules
+node_modules/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
+
+
